@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ca.r214.18\\desktop\\fruits\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ca.r214.18\\desktop\\fruits\\consoleapp1\\consoleapp1\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ca.r214.18\\desktop\\fruits\\consoleapp1\\consoleapp1\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ca.r214.18\\desktop\\fruits\\consoleapp1\\consoleapp1\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ca.r214.18\\desktop\\fruits\\consoleapp1\\consoleapp1\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F619B6AA-7D54-4D6F-AD44-C5773D69B586}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\pineapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:21:04.409Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Fruit.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Models\\Fruit.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:21:50.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pineapple.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Models\\Pineapple.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Pineapple.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Models\\Pineapple.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Pineapple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:33:54.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Models\\Orange.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Orange.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Models\\Orange.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Orange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:36:52.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Models\\Apple.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Apple.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\Fruits\\ConsoleApp1\\ConsoleApp1\\Models\\Apple.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Apple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:30:58.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
