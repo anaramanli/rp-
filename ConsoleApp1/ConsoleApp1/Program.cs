@@ -1,5 +1,7 @@
 ﻿using ConsoleApp1.Models;
 using System.Reflection;
+using System.Runtime.InteropServices;
+using System.Threading.Channels;
 
 namespace ConsoleApp1
 {
@@ -7,7 +9,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Apple apple = new Apple("Qizil ehmedi","32","45");
+            /*Apple apple = new Apple("Qizil ehmedi","32","45");
             Orange orange = new Orange("Portagal","372");
             Pineapple pineapple = new Pineapple("Ananas","56", "45");
             Fruit[] basket = { apple, orange, pineapple };
@@ -33,7 +35,7 @@ namespace ConsoleApp1
 
                     pineapple.Taste();
                 }
-            }*/
+            }#1#
             foreach (var fruit in basket)
             {
                 Type fruitType = fruit.GetType();
@@ -46,7 +48,49 @@ namespace ConsoleApp1
                    
                     Console.WriteLine(item.GetValue(fruit));
                 }
-            }
+            }*/
+
+                Grass yonca = new Grass(200);
+                /*Meet yonca = new Meet(200,"toyuq");*/
+
+                Meet baliq = new Meet(780, "baliq");
+
+                Lion lion = new Lion("Barbary Lion");
+                Cow cow = new Cow("Smetan");
+
+                Animal[] animals = { cow, lion };
+                foreach (var animal in animals)
+                {
+                    if (animal is Lion lion1)
+                    {
+                        lion1.MakeSound();
+                        if (baliq is Meet)
+                        {
+                            lion1.EatFood(baliq);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Lion only eat meet");
+                        }
+                        Console.WriteLine(lion1.Breed);
+                    }
+
+                    else if (animal is Cow cow1)
+                    {
+                        cow1.MakeSound();
+                        cow1.ProduceMilk();
+                        if (yonca is Grass)
+                        {
+                            cow1.EatFood(yonca);
+                        }
+                        else
+                        {
+                            Console.WriteLine("cow only eat grass");
+                        }
+                        Console.WriteLine(cow1.Breed);
+                    }
+                    Console.WriteLine("-----------");
+                }
         }
-    }   
+    }
 }
